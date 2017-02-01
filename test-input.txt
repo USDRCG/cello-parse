@@ -1,0 +1,46 @@
+
+    CELLO RESULTS
+    <http://cello.life.nctu.edu.tw/cgi/temp/635411993652364.result_save.txt>
+
+SeqID: 1086005|Genbank|Outer membrane/Extracellular
+(Autotransporter)|major ring-forming surface protein precursor
+
+Analysis Report:
+            SVM	LOCALIZATION	RELIABILITY
+    Amino Acid Comp.	    Extracellular	    0.865
+    N-peptide Comp.	    Extracellular	    0.423
+    Partitioned seq. Comp.	    Extracellular	    0.761
+    Physico-chemical Comp.	    InnerMembrane	    0.374
+    Neighboring seq. Comp.	    OuterMembrane	    0.558
+
+CELLO Prediction:
+ 	    Extracellular	    2.632  *
+ 	    OuterMembrane	    1.440
+ 	    InnerMembrane	    0.606
+ 	    Periplasmic	    0.173
+ 	    Cytoplasmic	    0.150
+
+*********************************************************************************
+
+SeqID: 283436121|Genbank|Outer membrane/Extracellular
+(Autotransporter)|major ring-forming surface protein precursor
+
+Analysis Report:
+            SVM	LOCALIZATION	RELIABILITY
+    Amino Acid Comp.	    Extracellular	    0.865
+    N-peptide Comp.	    Extracellular	    0.423
+    Partitioned seq. Comp.	    Extracellular	    0.761
+    Physico-chemical Comp.	    InnerMembrane	    0.374
+    Neighboring seq. Comp.	    OuterMembrane	    0.558
+
+CELLO Prediction:
+ 	    Extracellular	    2.632  
+ 	    OuterMembrane	    1.440 *
+ 	    InnerMembrane	    0.606 *
+ 	    Periplasmic	    0.173
+ 	    Cytoplasmic	    0.150
+
+*********************************************************************************
+
+[ Home <http://cello.life.nctu.edu.tw/> | Documentation
+<http://cello.life.nctu.edu.tw/cgi/readme.txt>]
