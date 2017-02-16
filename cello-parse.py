@@ -7,9 +7,13 @@
 # Build a FASTA record of all Mouse Proteins with those GIs
 
 from Bio import SeqIO
+import os
+import glob
 
-#input_file_name = "sample-input.txt"
-input_file_name = "full-input.txt" # Real input
+#infile
+path = 'eduardo_desktop_folder/' # folder where Eduardo will drop CELLO files
+for infile in glob.glob( os.path.join(path, '*.txt') ):
+	print "current file is: " + infile
 
 # Store all mouse protein records in a Dict indexed on gi number
 mice = {}
